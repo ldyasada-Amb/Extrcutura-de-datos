@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.AssemblyInfo.cs
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.sourcelink.json
+C:\Users\USER\Documents\Extrcutura de datos\semana7\bin\Debug\net10.0\semana7.exe
+C:\Users\USER\Documents\Extrcutura de datos\semana7\bin\Debug\net10.0\semana7.deps.json
+C:\Users\USER\Documents\Extrcutura de datos\semana7\bin\Debug\net10.0\semana7.runtimeconfig.json
+C:\Users\USER\Documents\Extrcutura de datos\semana7\bin\Debug\net10.0\semana7.dll
+C:\Users\USER\Documents\Extrcutura de datos\semana7\bin\Debug\net10.0\semana7.pdb
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.dll
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\refint\semana7.dll
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.pdb
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\semana7.genruntimeconfig.cache
+C:\Users\USER\Documents\Extrcutura de datos\semana7\obj\Debug\net10.0\ref\semana7.dll
